@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "940232048908",
+    "project_id": "appthuvien-cb606",
+    "storage_bucket": "appthuvien-cb606.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940232048908:android:22bdc0bdd210e0f575c929",
+        "android_client_info": {
+          "package_name": "com.ktgk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjcAjijTIjXO8B79VdHyK-qnDr6Noa-bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
